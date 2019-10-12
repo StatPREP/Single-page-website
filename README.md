@@ -5,6 +5,7 @@ This repository is a template for a single-page website that you can maintain di
 - All content goes in the `docs/` directory.
 - Edit the file `docs/index.md` to change the page. Use Markdown to organize the page.
 - To change the banner, find an image you prefer, upload it to the `docs/images/` directory, and change the top lines of `docs/index.md` to correspond to the name of your new image.
+- test.csv contains Age and Occupations.
 - This file you are reading right now is not in the `docs/` directory and so is not part of the content of your website.
 
 ## Quick deployment instructions
